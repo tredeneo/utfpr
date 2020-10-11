@@ -1,0 +1,10 @@
+{% extends 'base.html' %}
+
+{% block content %}
+  {% if user.is_authenticated %}
+    <h2>Olá, {{ user.get_full_name }} !</h2>
+      <p>Seu Username é: {{ user.username }} e sua deficiência: {{ user.profile.deficiencia }}</p>
+  {% else %}
+    <h2>Welcome stranger!</h2>
+  {% endif %}
+{% endblock %}
