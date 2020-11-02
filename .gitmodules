@@ -1,0 +1,3 @@
+[submodule "processamento_digital_de_imagens"]
+	path = processamento_digital_de_imagens
+	url = https://github.com/RafaelLammel/Processamento-Digital-de-Imagens.git
