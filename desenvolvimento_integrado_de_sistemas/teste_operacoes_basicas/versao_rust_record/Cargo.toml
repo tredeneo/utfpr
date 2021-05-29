@@ -1,0 +1,12 @@
+[package]
+name = "versao_rust"
+version = "0.1.0"
+authors = ["tredeneo <tredeneo@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+ndarray = "0.14.0"
+csv = "1.1"
+num-traits = "0.2" 

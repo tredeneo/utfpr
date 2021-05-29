@@ -1,0 +1,6 @@
+{
+	"Token" : UIID,
+	"Sinal" [],
+	"Algoritmo" : String,
+	"Hora da requisição": DateTime,
+}
