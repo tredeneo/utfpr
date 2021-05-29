@@ -1,0 +1,33 @@
+{% extends 'base.html' %}
+{% block content %}
+  <h1>Detalhando Jogo: {{ Jogo.nome }}</h1>
+  <center>
+  <img src="/core{{ Jogo.imagem.url }}" height = "500" width = "1000">
+  </center>
+  <table>
+    <tr>
+      <td><b>Criador do Jogo:</b></td>
+      <td>{{ Jogo.user.username }}</td>
+    </tr>
+    <tr>
+      <td><b>Página do jogo:</b></td>
+      <td><a href = "{{ Jogo.pagina_do_jogo }}" target = "_blank">{{ Jogo.pagina_do_jogo }}</a></td>
+    </tr>
+    <tr>
+      <td><b>Data da criação:</b></td>
+      <td>{{ Jogo.data_criacao }}</td>
+    </tr>
+    <tr>
+      <td><b>Descrição:</b>
+      <td>{{ Jogo.descricao.texto }}</td>
+    </tr>
+  </table>
+  <h2>Comentários</h2>
+  <a href = "{% url "add_comentario" pk=Jogo.pk %}">Fazer um comentário</a><br>
+  {% for comentario in Jogo.comentarios.all %}
+    <p><strong> <a href = "{% url "UserDetailView" comentario.dono.pk %}">{{ comentario.dono }}:</a></strong>
+      {{ comentario.comentario }} </p>
+  {% empty %}
+    <p> Esse jogo não possui comentários<br> Seja você o primeiro a comentar!</p>
+  {% endfor %}
+{% endblock %}
