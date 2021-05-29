@@ -1,0 +1,5 @@
+# Generated from CLion C/C++ Code Style settings
+BasedOnStyle: Chromium
+ColumnLimit: 180
+SortIncludes: false
+IndentWidth: 2
