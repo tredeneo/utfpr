@@ -1,1 +1,0 @@
-/usr/bin/cc -Wunused-variable -Wall CMakeFiles/SO.dir/disk.c.o CMakeFiles/SO.dir/ppos-core-task-aux.c.o CMakeFiles/SO.dir/pingpong-disco2.c.o CMakeFiles/SO.dir/ppos_disk.c.o -o SO  ../queue.o ../ppos-all.o -lrt 

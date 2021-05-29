@@ -1,3 +1,0 @@
-/home/dnl/Documentos/prog/utfpr/Sistemas_Operacionais/Trabalho2/ping-pong-os-apnp-2020-2-v4---kit-alunos-20210512/build/CMakeFiles/rebuild_cache.dir
-/home/dnl/Documentos/prog/utfpr/Sistemas_Operacionais/Trabalho2/ping-pong-os-apnp-2020-2-v4---kit-alunos-20210512/build/CMakeFiles/edit_cache.dir
-/home/dnl/Documentos/prog/utfpr/Sistemas_Operacionais/Trabalho2/ping-pong-os-apnp-2020-2-v4---kit-alunos-20210512/build/CMakeFiles/SO.dir
