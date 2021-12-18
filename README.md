@@ -18,11 +18,15 @@
 # comunicação de dados
 ![](./comunicao_de_dados/porcentagem_linguagens.png)
 
-# sistemas inteligentes
-![](./sistemas_inteligentes/porcentagem_linguagens.png)
 
 # sistemas operacionais 
 ![](./sistemas_operacionais/porcentagem_linguagens.png)
+
+# introdução a banco de dados
+![](./banco_de_dados/porcentagem_linguagens.png)
+
+# sistemas inteligentes
+![](./sistemas_inteligentes/porcentagem_linguagens.png)
 
 # redes
 ![](./redes/porcentagem_linguagens.png)
