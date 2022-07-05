@@ -1,3 +1,0 @@
-# icd
-
-ignorar este arquivo.
