@@ -1,2 +1,6 @@
 *.html linguist-vendored
 *.ipynb linguist-vendored
+*.env linguist-vendored
+*/CMakeLists.txt linguist-vendored
+*.gitattribures linguist-vendored
+*.gitignore linguist-vendored
