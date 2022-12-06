@@ -1,0 +1,894 @@
+CategoryId,names
+0,Town Car Service
+1,Restaurants
+2,Wedding Planning
+3,Professional Services
+4,Comic Books
+5,Venues & Event Spaces
+6,Computers
+7,Axe Throwing
+8,Cycling Classes
+9,Creperies
+10,Martial Arts
+11,Vinyl Records
+12,Education
+13,Macarons
+14,Grocery
+15,DJs
+16,Cryotherapy
+17,Comedy Clubs
+18,Horseback Riding
+19,Physical Therapy
+20,Appliances & Repair
+21,Personal Injury Law
+22,Septic Services
+23,Men's Clothing
+24,Automotive
+25,Funeral Services & Cemeteries
+26,Travel Services
+27,Gymnastics
+28,Pakistani
+29,Bike Repair/Maintenance
+30,Brasseries
+31,University Housing
+32,Hotels & Travel
+33,Festivals
+34,Occupational Therapy
+35,Auction Houses
+36,Swimming Lessons/Schools
+37,Marketing
+38,Toy Stores
+39,Dumpster Rental
+40,Street Vendors
+41,Historical Tours
+42,Assisted Living Facilities
+43,Gas Stations
+44,Waterproofing
+45,Immigration Law
+46,Wraps
+47,Bartending Schools
+48,Caricatures
+49,Modern European
+50,Doulas
+51,Whiskey Bars
+52,Blow Dry/Out Services
+53,Electricians
+54,Windshield Installation & Repair
+55,Security Services
+56,Sleep Specialists
+57,Crane Services
+58,Nightlife
+59,Tanning
+60,Active Life
+61,Payroll Services
+62,Home Cleaning
+63,Costumes
+64,Latin American
+65,Musical Instruments & Teachers
+66,Tattoo Removal
+67,Halal
+68,Orthotics
+69,Bed & Breakfast
+70,Home Window Tinting
+71,Wine Tours
+72,Herbs & Spices
+73,Trailer Repair
+74,Financial Services
+75,Cremation Services
+76,Newspapers & Magazines
+77,Wigs
+78,Snow Removal
+79,Turkish
+80,Architects
+81,Vocational & Technical School
+82,Pizza
+83,Seafood
+84,Adult
+85,Interior Design
+86,Tax Services
+87,Health Markets
+88,Maternity Wear
+89,Landmarks & Historical Buildings
+90,Gun/Rifle Ranges
+91,Wildlife Control
+92,Guest Houses
+93,Skate Shops
+94,Car Dealers
+95,Bistros
+96,Art Museums
+97,Kitchen & Bath
+98,Art Classes
+99,Filipino
+100,Pubs
+101,Web Design
+102,Yoga
+103,Fire Protection Services
+104,Barre Classes
+105,Cooking Schools
+106,Do-It-Yourself Food
+107,Shoe Stores
+108,Internet Service Providers
+109,Pet Groomers
+110,Speakeasies
+111,Customized Merchandise
+112,Battery Stores
+113,Shared Office Spaces
+114,Coffeeshops
+115,Imported Food
+116,Gluten-Free
+117,Chicken Shop
+118,Pilates
+119,Eyelash Service
+120,Climbing
+121,New Mexican Cuisine
+122,Home Inspectors
+123,Jewelry Repair
+124,Lounges
+125,Private Tutors
+126,Iberian
+127,Brewpubs
+128,Buffets
+129,Bird Shops
+130,Coffee Roasteries
+131,Massage Schools
+132,Pet Cremation Services
+133,Event Planning & Services
+134,Bridal
+135,Workers Compensation Law
+136,Water Delivery
+137,Chiropractors
+138,Cosmetology Schools
+139,Leather Goods
+140,Irish
+141,Children's Clothing
+142,Pet Training
+143,Cultural Center
+144,Tapas/Small Plates
+145,Piano Services
+146,Farm Equipment Repair
+147,Self-defense Classes
+148,Contractors
+149,Alternative Medicine
+150,Personal Chefs
+151,Pretzels
+152,Car Buyers
+153,Basque
+154,Fruits & Veggies
+155,Health Coach
+156,Mailbox Centers
+157,Casinos
+158,Middle Eastern
+159,Laundry Services
+160,Insulation Installation
+161,Heating & Air Conditioning/HVAC
+162,Breakfast & Brunch
+163,Brazilian
+164,Adult Education
+165,Audiologist
+166,Furniture Rental
+167,Kickboxing
+168,General Litigation
+169,Walk-in Clinics
+170,Auto Parts & Supplies
+171,Paint & Sip
+172,Test Preparation
+173,Coffee & Tea
+174,Outdoor Gear
+175,Laser Eye Surgery/Lasik
+176,Pet Services
+177,Cardio Classes
+178,Car Window Tinting
+179,Auto Upholstery
+180,Threading Services
+181,Dental Hygienists
+182,Pressure Washers
+183,Observatories
+184,Music Venues
+185,Family Practice
+186,Vape Shops
+187,Pest Control
+188,Gastropubs
+189,Food Delivery Services
+190,Summer Camps
+191,Kosher
+192,Community Gardens
+193,Arcades
+194,Pan Asian
+195,Print Media
+196,Tree Services
+197,Psychiatrists
+198,Valet Services
+199,Police Departments
+200,Escape Games
+201,Breweries
+202,Olive Oil
+203,Foundation Repair
+204,Bubble Tea
+205,Office Cleaning
+206,Emergency Pet Hospital
+207,Fur Clothing
+208,Cocktail Bars
+209,Midwives
+210,Train Stations
+211,Boat Repair
+212,Legal Services
+213,Fashion
+214,Periodontists
+215,Bike Sharing
+216,Waffles
+217,Hawaiian
+218,Department Stores
+219,Employment Agencies
+220,Art Supplies
+221,Argentine
+222,Empanadas
+223,Souvenir Shops
+224,Venezuelan
+225,Educational Services
+226,Colombian
+227,Glass Blowing
+228,Mass Media
+229,Translation Services
+230,Financial Advising
+231,Christmas Trees
+232,Reiki
+233,Auto Loan Providers
+234,Accountants
+235,Internet Cafes
+236,Cuban
+237,Dry Cleaning & Laundry
+238,Furniture Stores
+239,Home Staging
+240,Boot Camps
+241,Candle Stores
+242,Peruvian
+243,Hair Stylists
+244,Nurse Practitioner
+245,Event Photography
+246,Appliances
+247,Health & Medical
+248,Burgers
+249,Awnings
+250,Fences & Gates
+251,Cosmetics & Beauty Supply
+252,Watch Repair
+253,Video Game Stores
+254,Pool & Hot Tub Service
+255,Bespoke Clothing
+256,TV Mounting
+257,Vocal Coach
+258,Apartments
+259,Hearing Aid Providers
+260,Elementary Schools
+261,Fast Food
+262,Specialty Food
+263,Home Decor
+264,Russian
+265,Himalayan/Nepalese
+266,Lebanese
+267,Florists
+268,Izakaya
+269,Bus Tours
+270,General Dentistry
+271,Clothing Rental
+272,Criminal Defense Law
+273,Hockey Equipment
+274,Sugaring
+275,Bars
+276,Roof Inspectors
+277,Vehicle Wraps
+278,Child Care & Day Care
+279,Decks & Railing
+280,Beauty & Spas
+281,Bike tours
+282,Skin Care
+283,Truck Rental
+284,Amusement Parks
+285,Home & Garden
+286,Tea Rooms
+287,Delis
+288,DUI Law
+289,Sandwiches
+290,Diagnostic Imaging
+291,Shades & Blinds
+292,Acupuncture
+293,Women's Clothing
+294,Discount Store
+295,Sports Clubs
+296,Farmers Market
+297,Tabletop Games
+298,Laotian
+299,Saunas
+300,Placenta Encapsulations
+301,Clock Repair
+302,Meditation Centers
+303,Used Bookstore
+304,WillsTrustsProbates
+305,Prenatal/Perinatal Care
+306,Chicken Wings
+307,Flowers & Gifts
+308,Roofing
+309,Professional Sports Teams
+310,Hindu Temples
+311,Life Insurance
+312,Estate Liquidation
+313,Airports
+314,Naturopathic/Holistic
+315,Karaoke
+316,Polish
+317,BooksMagsMusicVideo
+318,Middle Schools & High Schools
+319,Fondue
+320,Cigar Bars
+321,Bangladeshi
+322,Auto Glass Services
+323,Excavation Services
+324,Nail Technicians
+325,Pathologists
+326,Indoor Playcentre
+327,Shopping
+328,Radio Stations
+329,Moroccan
+330,Smokehouse
+331,Soccer
+332,Pharmacy
+333,Dive Bars
+334,Gutter Services
+335,Window Washing
+336,Cantonese
+337,Keys & Locksmiths
+338,Day Spas
+339,Snorkeling
+340,Interval Training Gyms
+341,Sports Bars
+342,Divorce & Family Law
+343,Nutritionists
+344,Food Trucks
+345,Boating
+346,Food Tours
+347,Baseball Fields
+348,Acai Bowls
+349,Kombucha
+350,Mortgage Brokers
+351,Fertility
+352,Hats
+353,Business Consulting
+354,Cajun/Creole
+355,Air Duct Cleaning
+356,Bar Crawl
+357,Tennis
+358,Comfort Food
+359,Infectious Disease Specialists
+360,Dinner Theater
+361,Rock Climbing
+362,Cafes
+363,Performing Arts
+364,Museums
+365,Persian/Iranian
+366,Wine Bars
+367,Registration Services
+368,Walking Tours
+369,Carpet Cleaning
+370,Thai
+371,Career Counseling
+372,Life Coach
+373,Plus Size Fashion
+374,Dry Cleaning
+375,Damage Restoration
+376,Taiwanese
+377,Playgrounds
+378,Holiday Decorating Services
+379,Pediatric Dentists
+380,Digitizing Services
+381,Jewelry
+382,UsedVintageConsignment
+383,Real Estate
+384,Signmaking
+385,Food Court
+386,Utilities
+387,Juice Bars & Smoothies
+388,Shaved Ice
+389,Party Supplies
+390,Party Equipment Rentals
+391,Boat Charters
+392,Distilleries
+393,Tacos
+394,Korean
+395,Architectural Tours
+396,Pawn Shops
+397,Internal Medicine
+398,Trailer Rental
+399,Auto Insurance
+400,Musical Instrument Services
+401,Aquarium Services
+402,Teppanyaki
+403,Departments of Motor Vehicles
+404,Shoe Shine
+405,Italian
+406,Handyman
+407,Orthodontists
+408,Counseling & Mental Health
+409,Art Space Rentals
+410,Trainers
+411,Mini Golf
+412,Speech Therapists
+413,Body Contouring
+414,Cupcakes
+415,Golf Equipment
+416,Medical Centers
+417,Mortgage Lenders
+418,Hostels
+419,Kids Activities
+420,American (New)
+421,Office Equipment
+422,Glass & Mirrors
+423,Waxing
+424,Cannabis Dispensaries
+425,Permanent Makeup
+426,Vehicle Shipping
+427,Personal Assistants
+428,Meat Shops
+429,Dietitians
+430,Holiday Decorations
+431,Pet Sitting
+432,Pet Transportation
+433,Religious Organizations
+434,Patisserie/Cake Shop
+435,Taxis
+436,Hot Dogs
+437,Beer Gardens
+438,Oral Surgeons
+439,Candy Stores
+440,Sunglasses
+441,Metal Fabricators
+442,Pumpkin Patches
+443,Nurseries & Gardening
+444,Personal Care Services
+445,Wholesale Stores
+446,Nanny Services
+447,Mediterranean
+448,Food Stands
+449,Uniforms
+450,Magicians
+451,Specialty Schools
+452,Paint Stores
+453,Jazz & Blues
+454,Animal Shelters
+455,Ethnic Grocery
+456,Sicilian
+457,Currency Exchange
+458,Electronics Repair
+459,Pet Photography
+460,Donuts
+461,Packing Services
+462,Country Clubs
+463,Uzbek
+464,Wineries
+465,Mongolian
+466,Laboratory Testing
+467,Local Services
+468,Churches
+469,Printing Services
+470,Beverage Store
+471,Notaries
+472,Pediatricians
+473,Obstetricians & Gynecologists
+474,Pets
+475,Art Galleries
+476,Videos & Video Game Rental
+477,Grout Services
+478,Head Shops
+479,Tai Chi
+480,Personal Shopping
+481,Property Management
+482,Real Estate Photography
+483,Organic Stores
+484,Golf
+485,Southern
+486,Car Rental
+487,Outlet Stores
+488,Dentists
+489,Sewing & Alterations
+490,Steakhouses
+491,Teeth Whitening
+492,Painters
+493,Supernatural Readings
+494,Ear Nose & Throat
+495,Cideries
+496,Vegan
+497,Motorcycle Dealers
+498,Parking
+499,Chimney Sweeps
+500,Falafel
+501,Arts & Entertainment
+502,Telecommunications
+503,Windows Installation
+504,Countertop Installation
+505,Traditional Chinese Medicine
+506,Cards & Stationery
+507,Graphic Design
+508,Scuba Diving
+509,Stadiums & Arenas
+510,Oil Change Stations
+511,Landscape Architects
+512,Real Estate Services
+513,Commissioned Artists
+514,Gyms
+515,Skate Parks
+516,Honey
+517,Local Flavor
+518,Tobacco Shops
+519,Antiques
+520,Beaches
+521,Ethiopian
+522,Banks & Credit Unions
+523,Egyptian
+524,Self Storage
+525,Limos
+526,Perfume
+527,Disc Golf
+528,Party Bus Rentals
+529,Burmese
+530,Gay Bars
+531,Pop-up Shops
+532,Boat Dealers
+533,Home Automation
+534,Television Service Providers
+535,Team Building Activities
+536,Mobile Phone Accessories
+537,Embroidery & Crochet
+538,Shoe Repair
+539,Airlines
+540,Yelp Events
+541,Photographers
+542,Tex-Mex
+543,Swimming Pools
+544,Psychics
+545,Aquariums
+546,Massage
+547,Veterinarians
+548,Ski & Snowboard Shops
+549,Hobby Shops
+550,Sushi Bars
+551,Landscaping
+552,Pain Management
+553,Irrigation
+554,Airport Lounges
+555,Champagne Bars
+556,Cinema
+557,Water Purification Services
+558,Employment Law
+559,Arts & Crafts
+560,Children's Museums
+561,Carpenters
+562,Spanish
+563,Ticket Sales
+564,Junk Removal & Hauling
+565,Drugstores
+566,Barbers
+567,Insurance
+568,Used Car Dealers
+569,Auto Customization
+570,Leisure Centers
+571,Commercial Real Estate
+572,Custom Cakes
+573,Doctors
+574,Community Service/Non-Profit
+575,Desserts
+576,Sports Medicine
+577,Hungarian
+578,Synagogues
+579,Spray Tanning
+580,Data Recovery
+581,Popcorn Shops
+582,Videographers
+583,Commercial Truck Dealers
+584,Amateur Sports Teams
+585,Dance Schools
+586,Bikes
+587,Karate
+588,Hair Extensions
+589,Home & Rental Insurance
+590,Dermatologists
+591,Szechuan
+592,Rugs
+593,Rafting/Kayaking
+594,Diners
+595,Courthouses
+596,Airport Terminals
+597,Diving
+598,Motorcycle Repair
+599,Skating Rinks
+600,Smog Check Stations
+601,Brewing Supplies
+602,Soup
+603,Public Art
+604,American (Traditional)
+605,Baby Gear & Furniture
+606,Tanning Beds
+607,Food Banks
+608,Podiatrists
+609,Special Education
+610,Lawn Services
+611,Piercing
+612,Beer Bar
+613,Barbeque
+614,Driving Schools
+615,Beer Tours
+616,Makeup Artists
+617,Libraries
+618,Botanical Gardens
+619,Siding
+620,Noodles
+621,Fireplace Services
+622,Floral Designers
+623,Hiking
+624,Business Law
+625,Cosmetic Surgeons
+626,Mobile Phone Repair
+627,Post Offices
+628,Rehabilitation Center
+629,Challenge Courses
+630,Community Centers
+631,Vegetarian
+632,Door Sales/Installation
+633,Belgian
+634,Electronics
+635,Dance Wear
+636,Bakeries
+637,Seafood Markets
+638,Screen Printing/T-Shirt Printing
+639,Public Services & Government
+640,Archery
+641,Food
+642,African
+643,Firearm Training
+644,Tiling
+645,Cosmetic Dentists
+646,Cooking Classes
+647,Lakes
+648,Wheel & Rim Repair
+649,Emergency Rooms
+650,Video/Film Production
+651,Mexican
+652,Medical Transportation
+653,Ice Cream & Frozen Yogurt
+654,Fingerprinting
+655,Shopping Centers
+656,Real Estate Law
+657,Shutters
+658,Plastic Surgeons
+659,International Grocery
+660,Structural Engineers
+661,Ramen
+662,Mobile Phones
+663,Gold Buyers
+664,Pet Boarding
+665,Adult Entertainment
+666,Accessories
+667,Endodontists
+668,Party & Event Planning
+669,Eyewear & Opticians
+670,Allergists
+671,Massage Therapy
+672,Wholesalers
+673,Television Stations
+674,CSA
+675,Hardware Stores
+676,Bike Rentals
+677,Couriers & Delivery Services
+678,Ophthalmologists
+679,Public Transportation
+680,Cheese Shops
+681,Investing
+682,Blood & Plasma Donation Centers
+683,Dim Sum
+684,Furniture Repair
+685,Fish & Chips
+686,Fabric Stores
+687,Cambodian
+688,Generator Installation/Repair
+689,Bookstores
+690,Medical Spas
+691,Car Wash
+692,Body Shops
+693,Orthopedists
+694,Butcher
+695,Marinas
+696,BeerWineSpirits
+697,Security Systems
+698,Retirement Homes
+699,Ayurveda
+700,Session Photography
+701,Spiritual Shop
+702,Preschools
+703,Fire Departments
+704,Bowling
+705,Singaporean
+706,Caterers
+707,Paintball
+708,Framing
+709,Fishing
+710,Flea Markets
+711,Hunting & Fishing Supplies
+712,Fitness/Exercise Equipment
+713,Home Health Care
+714,Lighting Fixtures & Equipment
+715,Art Schools
+716,Auto Detailing
+717,Pop-Up Restaurants
+718,Circuit Training Gyms
+719,Formal Wear
+720,Virtual Reality Centers
+721,Transportation
+722,Prosthetics
+723,Weight Loss Centers
+724,Sports Wear
+725,Luggage
+726,Car Stereo Installation
+727,Syrian
+728,Parenting Classes
+729,Refinishing Services
+730,Golf Lessons
+731,Real Estate Agents
+732,Commercial Truck Repair
+733,Building Supplies
+734,Balloon Services
+735,IT Services & Computer Repair
+736,Bartenders
+737,Transmission Repair
+738,Dance Clubs
+739,Masonry/Concrete
+740,Zoos
+741,Salad
+742,Travel Agents
+743,Land Surveying
+744,Sporting Goods
+745,Urgent Care
+746,Paint-Your-Own Pottery
+747,Portuguese
+748,Drywall Installation & Repair
+749,Flooring
+750,Memory Care
+751,Opera & Ballet
+752,Hookah Bars
+753,Health Insurance Offices
+754,Diagnostic Services
+755,Guns & Ammo
+756,Furniture Reupholstery
+757,Reflexology
+758,Party Bike Rentals
+759,Mattresses
+760,Movers
+761,Laser Hair Removal
+762,Dance Studios
+763,Boat Tours
+764,Ethnic Food
+765,Estate Planning Law
+766,Nail Salons
+767,Live/Raw Food
+768,Vascular Medicine
+769,Carpet Installation
+770,Garage Door Services
+771,Men's Hair Salons
+772,Home Organization
+773,Car Inspectors
+774,Pole Dancing Classes
+775,Laser Tag
+776,Propane
+777,Recycling Center
+778,Outdoor Furniture Stores
+779,Vitamins & Supplements
+780,Poutineries
+781,Towing
+782,Hot Pot
+783,Hotels
+784,Homeowner Association
+785,Thrift Stores
+786,Water Heater Installation/Repair
+787,Skilled Nursing
+788,Car Share Services
+789,Recreation Centers
+790,Home Theatre Installation
+791,Chinese
+792,Restaurant Supplies
+793,Dog Parks
+794,Races & Competitions
+795,Cheese Tasting Classes
+796,Rolfing
+797,Pool & Billiards
+798,Donation Center
+799,Tours
+800,Guitar Stores
+801,Wine Tasting Room
+802,Visitor Centers
+803,Screen Printing
+804,ATV Rentals/Tours
+805,Optometrists
+806,Montessori Schools
+807,Attraction Farms
+808,Buses
+809,Prosthodontists
+810,Pet Stores
+811,Music & DVDs
+812,Eyebrow Services
+813,Dog Walkers
+814,Pool Halls
+815,Lingerie
+816,Piano Bars
+817,Caribbean
+818,Soul Food
+819,Appraisal Services
+820,Pasta Shops
+821,Boxing
+822,Gift Shops
+823,Pet Adoption
+824,Farming Equipment
+825,Tutoring Centers
+826,Spin Classes
+827,Pet Waste Removal
+828,Tasting Classes
+829,German
+830,Knife Sharpening
+831,Strip Clubs
+832,Engraving
+833,Hair Salons
+834,Carpeting
+835,Resorts
+836,Gelato
+837,Social Clubs
+838,Chocolatiers & Shops
+839,Home Services
+840,Tapas Bars
+841,Gardeners
+842,Irish Pub
+843,Hydro-jetting
+844,Poke
+845,Hospitals
+846,Convenience Stores
+847,Hot Tub & Pool
+848,Health Retreats
+849,Bagels
+850,Cafeteria
+851,Parks
+852,Indian
+853,Cardiologists
+854,Roadside Assistance
+855,French
+856,Mobile Dent Repair
+857,Vietnamese
+858,Photography Stores & Services
+859,Airport Shuttles
+860,Watches
+861,Asian Fusion
+862,Packing Supplies
+863,LAN Centers
+864,Mountain Biking
+865,Plumbing
+866,British
+867,Tires
+868,Medical Supplies
+869,Gunsmith
+870,Japanese
+871,Advertising
+872,Shipping Centers
+873,Swimwear
+874,Laundromat
+875,Knitting Supplies
+876,Cheesesteaks
+877,Tattoo
+878,Hair Removal
+879,Lawyers
+880,Malaysian
+881,Fitness & Instruction
+882,Astrologers
+883,Auto Repair
+884,Photo Booth Rentals
+885,Tiki Bars
+886,Art Restoration
+887,Home Network Installation
+888,Farms
+889,Cabinetry
+890,Colleges & Universities
+891,Greek
+892,Stucco Services
