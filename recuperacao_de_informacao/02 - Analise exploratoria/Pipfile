@@ -1,0 +1,28 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyterlab = "*"
+pandas = "*"
+seaborn = "*"
+textblob = "*"
+plotly = "*"
+bokeh = "*"
+cufflinks = "*"
+scikit-learn = "*"
+nltk = "*"
+spacy = "*"
+gensim = "*"
+joblib = "*"
+pyldavis = "*"
+ray = "*"
+polars = "*"
+pyarrow = "*"
+euporie = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"

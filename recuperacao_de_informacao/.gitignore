@@ -1,0 +1,7 @@
+Pipfile.lock
+**/.ipynb_checkpoints/
+Dados/bertopics/*
+**/bertopics_virtual_enviroment/
+Dados/bertopics.rar
+Dados/bertopics/modelo_resident evil 2
+Dados/wordclouds/*
